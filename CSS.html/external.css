@@ -1,0 +1,9 @@
+/*this is example of css*/
+h2{
+    color:blue;
+    background-color: aqua;
+    font-size: smaller;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+    text-align: center;
+}
